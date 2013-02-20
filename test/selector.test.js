@@ -1,7 +1,5 @@
-define(['selector/selector',
-        'chai'],
-function(select, chai) {
-  var expect = chai.expect;
+define(['selector'],
+function(select) {
 
   describe("selector", function() {
     
