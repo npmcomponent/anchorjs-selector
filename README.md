@@ -1,5 +1,8 @@
 # Anchor/Selector
 
+The selector module implements support for selecting DOM elements using CSS
+selectors.
+
 ## Install
 
 ##### component
