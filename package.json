@@ -1,7 +1,7 @@
 {
   "name": "selector",
   "version": "0.0.0",
-  "description": "CSS selector module for Anchor.js.",
+  "description": "DOM query using CSS selectors.",
   "repository": {
     "type": "git",
     "url": "git://github.com/anchorjs/selector.git"

@@ -1,0 +1,11 @@
+{
+  "name": "selector",
+  "version": "0.0.0",
+  "description": "DOM query using CSS selectors.",
+  "repo": "anchorjs/selector",
+  "main": "selector.js",
+  "scripts": [
+    "selector.js"
+  ],
+  "license": "MIT"
+}
